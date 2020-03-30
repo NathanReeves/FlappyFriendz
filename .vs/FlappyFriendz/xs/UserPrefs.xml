@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{2FCE0EFE-B0DE-29F4-ECC8-D362F5C4BC99}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MatchManager.cs">
+    <Files>
+      <File FileName="Assets/Plugins/iOS/GameKitP/Source/GameKit.cs" Line="94" Column="38" />
+      <File FileName="Assets/Scripts/MatchManager.cs" Line="80" Column="75" />
+      <File FileName="Assets/Scripts/GameState.cs" />
+      <File FileName="Assets/Plugins/iOS/GameKitP/Editor/SwiftPostProcessor.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlappyFriendz" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Plugins" expanded="True">
+                <Node name="iOS" expanded="True">
+                  <Node name="GameKitP" expanded="True">
+                    <Node name="Editor" expanded="True" />
+                    <Node name="Source" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="MatchManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="73e1509d-e910-49cb-a20b-a951e8bb7e57" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
