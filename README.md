@@ -1,4 +1,4 @@
-# iOS Realtime Multiplayer Plugin
+![alt text](Assets/Art/title.png?raw=true)
 
 A complete Unity project for the iOS game Flappy Friendz, a realtime online co-op version of Flappy Bird. 
 
